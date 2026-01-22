@@ -1,146 +1,146 @@
 {
   "SBER": {
     "atr_value": 2.7449999999999903,
-    "atr_percentage": 0.8955662131741183,
+    "atr_percentage": 0.8958000195803251,
     "volatility": "LOW",
-    "calculation_time": "2026-01-22 21:58:59"
+    "calculation_time": "2026-01-22 22:04:26"
   },
   "CNYRUB_TOM": {
     "atr_value": 0.1473333333333328,
     "atr_percentage": 1.3604185903354828,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:00"
+    "calculation_time": "2026-01-22 22:04:28"
   },
   "CRH6": {
     "atr_value": 0.13124999999999964,
-    "atr_percentage": 1.1872455902306618,
+    "atr_percentage": 1.1870308401917304,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:01"
+    "calculation_time": "2026-01-22 22:04:29"
   },
   "SiH6": {
     "atr_value": 913.25,
-    "atr_percentage": 1.18734967171553,
+    "atr_percentage": 1.1872879262600917,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:02"
+    "calculation_time": "2026-01-22 22:04:31"
   },
   "EuH6": {
     "atr_value": 1254.75,
-    "atr_percentage": 1.3835593781012239,
+    "atr_percentage": 1.3838950897780915,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:03"
+    "calculation_time": "2026-01-22 22:04:32"
   },
   "CNYRUBF": {
     "atr_value": 0.11899999999999977,
-    "atr_percentage": 1.0974822466107144,
+    "atr_percentage": 1.097178683385578,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:04"
+    "calculation_time": "2026-01-22 22:04:33"
   },
   "RAGR": {
     "atr_value": 2.109999999999996,
     "atr_percentage": 1.8170857733379226,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:05"
+    "calculation_time": "2026-01-22 22:04:34"
   },
   "OZON": {
     "atr_value": 76.625,
-    "atr_percentage": 1.6946809687050757,
+    "atr_percentage": 1.6950558566530252,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:06"
+    "calculation_time": "2026-01-22 22:04:35"
   },
   "AFLT": {
     "atr_value": 1.3324999999999996,
-    "atr_percentage": 2.2954349698535736,
+    "atr_percentage": 2.295039614192214,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:08"
+    "calculation_time": "2026-01-22 22:04:36"
   },
   "SBERP": {
     "atr_value": 2.5825000000000102,
-    "atr_percentage": 0.8469712374143222,
+    "atr_percentage": 0.8470823629743859,
     "volatility": "LOW",
-    "calculation_time": "2026-01-22 21:59:10"
+    "calculation_time": "2026-01-22 22:04:39"
   },
   "GAZP": {
     "atr_value": 2.0249999999999986,
     "atr_percentage": 1.605613701236916,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:12"
+    "calculation_time": "2026-01-22 22:04:40"
   },
   "LKOH": {
     "atr_value": 83.375,
-    "atr_percentage": 1.552607076350093,
+    "atr_percentage": 1.5528962562860869,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:13"
+    "calculation_time": "2026-01-22 22:04:41"
+  },
+  "GMKN": {
+    "atr_value": 2.75,
+    "atr_percentage": 1.7004699480583723,
+    "volatility": "MEDIUM",
+    "calculation_time": "2026-01-22 22:04:42"
   },
   "ROSN": {
     "atr_value": 5.0625,
-    "atr_percentage": 1.2680025046963057,
+    "atr_percentage": 1.2675262894341515,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:19"
+    "calculation_time": "2026-01-22 22:04:43"
   },
   "NVTK": {
     "atr_value": 28.550000000000068,
-    "atr_percentage": 2.3420836751435656,
+    "atr_percentage": 2.3424680013127723,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:20"
+    "calculation_time": "2026-01-22 22:04:45"
   },
   "TATN": {
     "atr_value": 11.149999999999977,
-    "atr_percentage": 1.972404033256674,
+    "atr_percentage": 1.972753007784851,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:22"
+    "calculation_time": "2026-01-22 22:04:46"
   },
   "MTSS": {
     "atr_value": 3.9750000000000014,
     "atr_percentage": 1.7468688200395524,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:23"
-  },
-  "PLZL": {
-    "atr_value": 59.64999999999998,
-    "atr_percentage": 2.215330906930104,
-    "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:24"
+    "calculation_time": "2026-01-22 22:04:47"
   },
   "MGNT": {
     "atr_value": 92.5,
-    "atr_percentage": 2.8470298553401046,
+    "atr_percentage": 2.846591783351285,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:26"
+    "calculation_time": "2026-01-22 22:04:53"
   },
   "RTKM": {
     "atr_value": 1.314999999999996,
-    "atr_percentage": 2.0511620652004305,
+    "atr_percentage": 2.0489248987223365,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:27"
+    "calculation_time": "2026-01-22 22:04:54"
   },
   "ALRS": {
     "atr_value": 0.7999999999999972,
-    "atr_percentage": 1.892147587511819,
+    "atr_percentage": 1.891700165523758,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:28"
+    "calculation_time": "2026-01-22 22:04:55"
   },
   "SNGS": {
     "atr_value": 0.32125000000000004,
     "atr_percentage": 1.4519774011299436,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:29"
+    "calculation_time": "2026-01-22 22:04:56"
   },
   "SNGSP": {
     "atr_value": 0.7125000000000004,
     "atr_percentage": 1.646637393113012,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:31"
+    "calculation_time": "2026-01-22 22:04:57"
   },
   "CHMF": {
     "atr_value": 15.999999999999972,
     "atr_percentage": 1.6505054672993575,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:32"
+    "calculation_time": "2026-01-22 22:04:59"
   },
   "NLMK": {
     "atr_value": 2.2200000000000024,
     "atr_percentage": 2.0566981656475845,
     "volatility": "MEDIUM",
-    "calculation_time": "2026-01-22 21:59:33"
+    "calculation_time": "2026-01-22 22:05:00"
   }
 }

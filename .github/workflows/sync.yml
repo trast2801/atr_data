@@ -1,0 +1,43 @@
+name: Auto Sync to PythonAnywhere
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'data/**'  # Только при изменении данных
+  workflow_dispatch:  # Позволяет запускать вручную
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+        
+    - name: Sync to PythonAnywhere
+      env:
+        PYTHONANYWHERE_USERNAME: ${{ secrets.PYTHONANYWHERE_USERNAME }}
+        PYTHONANYWHERE_API_TOKEN: ${{ secrets.PYTHONANYWHERE_API_TOKEN }}
+      run: |
+        echo "🔄 Синхронизация с PythonAnywhere..."
+        python scripts/sync_to_pythonanywhere.py
+        
+    - name: Display result
+      run: |
+        if [ $? -eq 0 ]; then
+          echo "✅ Синхронизация завершена успешно"
+        else
+          echo "❌ Ошибка синхронизации"
+          echo "Логи: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        fi

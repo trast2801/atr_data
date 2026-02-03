@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-03T09:46:16.189934",
+  "timestamp": "2026-02-03T09:50:07.714178",
   "total_tickers": 40,
   "data": [
     {
@@ -16,9 +16,9 @@
         "difference": -9.424999999999955,
         "percentage": 67.41573033707876,
         "status": "NORMAL",
-        "timestamp": "09:46:16"
+        "timestamp": "09:50:07"
       },
-      "last_update": "09:46:16",
+      "last_update": "09:50:07",
       "formatted_comparison": "на 32.6% меньше базового",
       "excess_percent": 0
     },
@@ -36,10 +36,30 @@
         "difference": -0.0007099999999999954,
         "percentage": 63.58974358974383,
         "status": "NORMAL",
-        "timestamp": "09:46:11"
+        "timestamp": "09:50:06"
       },
-      "last_update": "09:46:11",
+      "last_update": "09:50:06",
       "formatted_comparison": "на 36.4% меньше базового",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "HYDR",
+      "name": "РусГидро",
+      "current_range": 0.009199999999999986,
+      "high": 0.4475,
+      "low": 0.4383,
+      "baseline_atr": 0.015075000000000005,
+      "comparison": {
+        "symbol": "HYDR",
+        "current_range": 0.009199999999999986,
+        "baseline_atr": 0.015075000000000005,
+        "difference": -0.005875000000000019,
+        "percentage": 61.02819237147584,
+        "status": "NORMAL",
+        "timestamp": "09:50:04"
+      },
+      "last_update": "09:50:04",
+      "formatted_comparison": "на 39.0% меньше базового",
       "excess_percent": 0
     },
     {
@@ -56,9 +76,9 @@
         "difference": -0.809999999999997,
         "percentage": 56.33423180593006,
         "status": "NORMAL",
-        "timestamp": "09:46:06"
+        "timestamp": "09:50:03"
       },
-      "last_update": "09:46:06",
+      "last_update": "09:50:03",
       "formatted_comparison": "на 43.7% меньше базового",
       "excess_percent": 0
     },
@@ -76,9 +96,9 @@
         "difference": -0.9750000000000085,
         "percentage": 49.35064935064884,
         "status": "NORMAL",
-        "timestamp": "09:45:54"
+        "timestamp": "09:49:51"
       },
-      "last_update": "09:45:54",
+      "last_update": "09:49:51",
       "formatted_comparison": "на 50.6% меньше базового",
       "excess_percent": 0
     },
@@ -96,10 +116,50 @@
         "difference": -6.174999999999983,
         "percentage": 48.861283643892314,
         "status": "NORMAL",
-        "timestamp": "09:45:53"
+        "timestamp": "09:49:50"
       },
-      "last_update": "09:45:53",
+      "last_update": "09:49:50",
       "formatted_comparison": "на 51.1% меньше базового",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "VTBR",
+      "name": "Банк ВТБ",
+      "current_range": 1.7399999999999949,
+      "high": 82.86,
+      "low": 81.12,
+      "baseline_atr": 3.5700000000000003,
+      "comparison": {
+        "symbol": "VTBR",
+        "current_range": 1.7399999999999949,
+        "baseline_atr": 3.5700000000000003,
+        "difference": -1.8300000000000054,
+        "percentage": 48.73949579831918,
+        "status": "NORMAL",
+        "timestamp": "09:50:02"
+      },
+      "last_update": "09:50:02",
+      "formatted_comparison": "на 51.3% меньше базового",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "TRNFP",
+      "name": "Транснефть (прив.)",
+      "current_range": 6.800000000000182,
+      "high": 1411.4,
+      "low": 1404.6,
+      "baseline_atr": 14.049999999999955,
+      "comparison": {
+        "symbol": "TRNFP",
+        "current_range": 6.800000000000182,
+        "baseline_atr": 14.049999999999955,
+        "difference": -7.249999999999773,
+        "percentage": 48.39857651245697,
+        "status": "NORMAL",
+        "timestamp": "09:50:07"
+      },
+      "last_update": "09:50:07",
+      "formatted_comparison": "на 51.6% меньше базового",
       "excess_percent": 0
     },
     {
@@ -116,9 +176,9 @@
         "difference": -20.200000000000045,
         "percentage": 47.39583333333302,
         "status": "NORMAL",
-        "timestamp": "09:46:05"
+        "timestamp": "09:50:03"
       },
-      "last_update": "09:46:05",
+      "last_update": "09:50:03",
       "formatted_comparison": "на 52.6% меньше базового",
       "excess_percent": 0
     },
@@ -136,9 +196,9 @@
         "difference": -0.6125000000000043,
         "percentage": 47.31182795698894,
         "status": "NORMAL",
-        "timestamp": "09:45:48"
+        "timestamp": "09:49:43"
       },
-      "last_update": "09:45:48",
+      "last_update": "09:49:43",
       "formatted_comparison": "на 52.7% меньше базового",
       "excess_percent": 0
     },
@@ -156,9 +216,9 @@
         "difference": -60.625,
         "percentage": 46.408839779005525,
         "status": "NORMAL",
-        "timestamp": "09:45:48"
+        "timestamp": "09:49:42"
       },
-      "last_update": "09:45:48",
+      "last_update": "09:49:42",
       "formatted_comparison": "на 53.6% меньше базового",
       "excess_percent": 0
     },
@@ -176,9 +236,9 @@
         "difference": -0.5862500000000006,
         "percentage": 46.02991944764094,
         "status": "NORMAL",
-        "timestamp": "09:46:10"
+        "timestamp": "09:50:05"
       },
-      "last_update": "09:46:10",
+      "last_update": "09:50:05",
       "formatted_comparison": "на 54.0% меньше базового",
       "excess_percent": 0
     },
@@ -196,9 +256,9 @@
         "difference": -1.1024999999999956,
         "percentage": 44.94382022471935,
         "status": "NORMAL",
-        "timestamp": "09:45:50"
+        "timestamp": "09:49:48"
       },
-      "last_update": "09:45:50",
+      "last_update": "09:49:48",
       "formatted_comparison": "на 55.1% меньше базового",
       "excess_percent": 0
     },
@@ -216,9 +276,9 @@
         "difference": -0.06425000000000014,
         "percentage": 44.251626898047746,
         "status": "NORMAL",
-        "timestamp": "09:46:01"
+        "timestamp": "09:50:00"
       },
-      "last_update": "09:46:01",
+      "last_update": "09:50:00",
       "formatted_comparison": "на 55.7% меньше базового",
       "excess_percent": 0
     },
@@ -236,9 +296,9 @@
         "difference": -3.299999999999983,
         "percentage": 41.696113074205215,
         "status": "NORMAL",
-        "timestamp": "09:45:52"
+        "timestamp": "09:49:49"
       },
-      "last_update": "09:45:52",
+      "last_update": "09:49:49",
       "formatted_comparison": "на 58.3% меньше базового",
       "excess_percent": 0
     },
@@ -256,9 +316,9 @@
         "difference": -0.38749999999999574,
         "percentage": 41.06463878327051,
         "status": "NORMAL",
-        "timestamp": "09:45:58"
+        "timestamp": "09:49:57"
       },
-      "last_update": "09:45:58",
+      "last_update": "09:49:57",
       "formatted_comparison": "на 58.9% меньше базового",
       "excess_percent": 0
     },
@@ -276,30 +336,10 @@
         "difference": -4.774999999999977,
         "percentage": 40.86687306501568,
         "status": "NORMAL",
-        "timestamp": "09:46:11"
+        "timestamp": "09:50:05"
       },
-      "last_update": "09:46:11",
+      "last_update": "09:50:05",
       "formatted_comparison": "на 59.1% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "SBERP",
-      "name": "Сбербанк - прив.",
-      "current_range": 1.419999999999959,
-      "high": 305.03,
-      "low": 303.61,
-      "baseline_atr": 3.552499999999995,
-      "comparison": {
-        "symbol": "SBERP",
-        "current_range": 1.419999999999959,
-        "baseline_atr": 3.552499999999995,
-        "difference": -2.132500000000036,
-        "percentage": 39.97185080928814,
-        "status": "NORMAL",
-        "timestamp": "09:45:50"
-      },
-      "last_update": "09:45:50",
-      "formatted_comparison": "на 60.0% меньше базового",
       "excess_percent": 0
     },
     {
@@ -316,9 +356,9 @@
         "difference": -0.24824999999999964,
         "percentage": 38.437693738375906,
         "status": "NORMAL",
-        "timestamp": "09:46:00"
+        "timestamp": "09:49:59"
       },
-      "last_update": "09:46:00",
+      "last_update": "09:49:59",
       "formatted_comparison": "на 61.6% меньше базового",
       "excess_percent": 0
     },
@@ -336,9 +376,9 @@
         "difference": -17.49999999999997,
         "percentage": 37.722419928825715,
         "status": "NORMAL",
-        "timestamp": "09:45:58"
+        "timestamp": "09:49:58"
       },
-      "last_update": "09:45:58",
+      "last_update": "09:49:58",
       "formatted_comparison": "на 62.3% меньше базового",
       "excess_percent": 0
     },
@@ -356,9 +396,9 @@
         "difference": -2.25,
         "percentage": 34.402332361516166,
         "status": "NORMAL",
-        "timestamp": "09:45:59"
+        "timestamp": "09:49:58"
       },
-      "last_update": "09:45:59",
+      "last_update": "09:49:58",
       "formatted_comparison": "на 65.6% меньше базового",
       "excess_percent": 0
     },
@@ -376,9 +416,9 @@
         "difference": -0.28000000000000114,
         "percentage": 34.11764705882337,
         "status": "NORMAL",
-        "timestamp": "09:45:57"
+        "timestamp": "09:49:57"
       },
-      "last_update": "09:45:57",
+      "last_update": "09:49:57",
       "formatted_comparison": "на 65.9% меньше базового",
       "excess_percent": 0
     },
@@ -396,9 +436,9 @@
         "difference": -25.950000000000102,
         "percentage": 34.053367217280496,
         "status": "NORMAL",
-        "timestamp": "09:46:01"
+        "timestamp": "09:50:01"
       },
-      "last_update": "09:46:01",
+      "last_update": "09:50:01",
       "formatted_comparison": "на 65.9% меньше базового",
       "excess_percent": 0
     },
@@ -416,9 +456,9 @@
         "difference": -14.349999999999966,
         "percentage": 34.022988505747456,
         "status": "NORMAL",
-        "timestamp": "09:45:53"
+        "timestamp": "09:49:50"
       },
-      "last_update": "09:45:53",
+      "last_update": "09:49:50",
       "formatted_comparison": "на 66.0% меньше базового",
       "excess_percent": 0
     },
@@ -436,10 +476,30 @@
         "difference": -4.737499999999983,
         "percentage": 32.68206039076396,
         "status": "NORMAL",
-        "timestamp": "09:45:52"
+        "timestamp": "09:49:49"
       },
-      "last_update": "09:45:52",
+      "last_update": "09:49:49",
       "formatted_comparison": "на 67.3% меньше базового",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "ALRS",
+      "name": "АЛРОСА",
+      "current_range": 0.240000000000002,
+      "high": 41.81,
+      "low": 41.57,
+      "baseline_atr": 0.7825000000000006,
+      "comparison": {
+        "symbol": "ALRS",
+        "current_range": 0.240000000000002,
+        "baseline_atr": 0.7825000000000006,
+        "difference": -0.5424999999999986,
+        "percentage": 30.670926517572116,
+        "status": "NORMAL",
+        "timestamp": "09:49:56"
+      },
+      "last_update": "09:49:56",
+      "formatted_comparison": "на 69.3% меньше базового",
       "excess_percent": 0
     },
     {
@@ -456,9 +516,9 @@
         "difference": -73.35000000000025,
         "percentage": 29.842180774748726,
         "status": "NORMAL",
-        "timestamp": "09:45:54"
+        "timestamp": "09:49:51"
       },
-      "last_update": "09:45:54",
+      "last_update": "09:49:51",
       "formatted_comparison": "на 70.2% меньше базового",
       "excess_percent": 0
     },
@@ -476,50 +536,10 @@
         "difference": -69.5,
         "percentage": 29.441624365482234,
         "status": "NORMAL",
-        "timestamp": "09:45:51"
+        "timestamp": "09:49:48"
       },
-      "last_update": "09:45:51",
+      "last_update": "09:49:48",
       "formatted_comparison": "на 70.6% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "ALRS",
-      "name": "АЛРОСА",
-      "current_range": 0.23000000000000398,
-      "high": 41.81,
-      "low": 41.58,
-      "baseline_atr": 0.7825000000000006,
-      "comparison": {
-        "symbol": "ALRS",
-        "current_range": 0.23000000000000398,
-        "baseline_atr": 0.7825000000000006,
-        "difference": -0.5524999999999967,
-        "percentage": 29.392971246006873,
-        "status": "NORMAL",
-        "timestamp": "09:45:56"
-      },
-      "last_update": "09:45:56",
-      "formatted_comparison": "на 70.6% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "RTKM",
-      "name": "Ростелеком",
-      "current_range": 0.4000000000000057,
-      "high": 65.43,
-      "low": 65.03,
-      "baseline_atr": 1.3750000000000036,
-      "comparison": {
-        "symbol": "RTKM",
-        "current_range": 0.4000000000000057,
-        "baseline_atr": 1.3750000000000036,
-        "difference": -0.9749999999999979,
-        "percentage": 29.090909090909427,
-        "status": "NORMAL",
-        "timestamp": "09:45:55"
-      },
-      "last_update": "09:45:55",
-      "formatted_comparison": "на 70.9% меньше базового",
       "excess_percent": 0
     },
     {
@@ -536,9 +556,9 @@
         "difference": -2.7150000000000176,
         "percentage": 27.503337783710958,
         "status": "NORMAL",
-        "timestamp": "09:45:44"
+        "timestamp": "09:49:33"
       },
-      "last_update": "09:45:44",
+      "last_update": "09:49:33",
       "formatted_comparison": "на 72.5% меньше базового",
       "excess_percent": 0
     },
@@ -556,9 +576,9 @@
         "difference": -821.3333333333333,
         "percentage": 25.961538461538463,
         "status": "NORMAL",
-        "timestamp": "09:45:46"
+        "timestamp": "09:49:39"
       },
-      "last_update": "09:45:46",
+      "last_update": "09:49:39",
       "formatted_comparison": "на 74.0% меньше базового",
       "excess_percent": 0
     },
@@ -576,9 +596,9 @@
         "difference": -0.1443333333333321,
         "percentage": 20.404411764706378,
         "status": "NORMAL",
-        "timestamp": "09:45:45"
+        "timestamp": "09:49:37"
       },
-      "last_update": "09:45:45",
+      "last_update": "09:49:37",
       "formatted_comparison": "на 79.6% меньше базового",
       "excess_percent": 0
     },
@@ -596,9 +616,9 @@
         "difference": -4.889999999999986,
         "percentage": 20.228384991843555,
         "status": "NORMAL",
-        "timestamp": "09:45:47"
+        "timestamp": "09:49:41"
       },
-      "last_update": "09:45:47",
+      "last_update": "09:49:41",
       "formatted_comparison": "на 79.8% меньше базового",
       "excess_percent": 0
     },
@@ -616,9 +636,9 @@
         "difference": -1168.6666666666667,
         "percentage": 17.56407241946861,
         "status": "NORMAL",
-        "timestamp": "09:45:46"
+        "timestamp": "09:49:40"
       },
-      "last_update": "09:45:46",
+      "last_update": "09:49:40",
       "formatted_comparison": "на 82.4% меньше базового",
       "excess_percent": 0
     },
@@ -636,9 +656,9 @@
         "difference": -0.14866666666666659,
         "percentage": 17.254174397031814,
         "status": "NORMAL",
-        "timestamp": "09:45:46"
+        "timestamp": "09:49:41"
       },
-      "last_update": "09:45:46",
+      "last_update": "09:49:41",
       "formatted_comparison": "на 82.7% меньше базового",
       "excess_percent": 0
     },
@@ -656,9 +676,9 @@
         "difference": -0.2132499999999995,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "09:45:44"
+        "timestamp": "09:49:37"
       },
-      "last_update": "09:45:44",
+      "last_update": "09:49:37",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -677,9 +697,30 @@
         "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "09:45:49"
+        "timestamp": "09:49:43"
       },
-      "last_update": "09:45:49",
+      "last_update": "09:49:43",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "SBERP",
+      "name": "Сбербанк - прив.",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 3.552499999999995,
+      "comparison": {
+        "symbol": "SBERP",
+        "current_range": 0,
+        "baseline_atr": 3.552499999999995,
+        "difference": -3.552499999999995,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:49:46"
+      },
+      "last_update": "09:49:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -698,9 +739,30 @@
         "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "09:45:55"
+        "timestamp": "09:49:52"
       },
-      "last_update": "09:45:55",
+      "last_update": "09:49:52",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "RTKM",
+      "name": "Ростелеком",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 1.3750000000000036,
+      "comparison": {
+        "symbol": "RTKM",
+        "current_range": 0,
+        "baseline_atr": 1.3750000000000036,
+        "difference": -1.3750000000000036,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:49:56"
+      },
+      "last_update": "09:49:56",
+      "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
     },
@@ -718,51 +780,9 @@
         "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "09:46:00"
+        "timestamp": "09:49:59"
       },
-      "last_update": "09:46:00",
-      "formatted_comparison": "нет данных",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "VTBR",
-      "name": "Банк ВТБ",
-      "current_range": 0,
-      "high": 0,
-      "low": 0,
-      "baseline_atr": 3.5700000000000003,
-      "comparison": {
-        "symbol": "VTBR",
-        "current_range": 0,
-        "baseline_atr": 3.5700000000000003,
-        "difference": -3.5700000000000003,
-        "percentage": 0,
-        "status": "NO_DATA",
-        "timestamp": "09:46:05"
-      },
-      "last_update": "09:46:05",
-      "error": "Не удалось получить свечу",
-      "formatted_comparison": "нет данных",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "HYDR",
-      "name": "РусГидро",
-      "current_range": 0,
-      "high": 0,
-      "low": 0,
-      "baseline_atr": 0.015075000000000005,
-      "comparison": {
-        "symbol": "HYDR",
-        "current_range": 0,
-        "baseline_atr": 0.015075000000000005,
-        "difference": -0.015075000000000005,
-        "percentage": 0,
-        "status": "NO_DATA",
-        "timestamp": "09:46:09"
-      },
-      "last_update": "09:46:09",
-      "error": "Не удалось получить свечу",
+      "last_update": "09:49:59",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
     },
@@ -780,30 +800,9 @@
         "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "09:46:12"
+        "timestamp": "09:50:06"
       },
-      "last_update": "09:46:12",
-      "error": "Не удалось получить свечу",
-      "formatted_comparison": "нет данных",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "TRNFP",
-      "name": "Транснефть (прив.)",
-      "current_range": 0,
-      "high": 0,
-      "low": 0,
-      "baseline_atr": 14.049999999999955,
-      "comparison": {
-        "symbol": "TRNFP",
-        "current_range": 0,
-        "baseline_atr": 14.049999999999955,
-        "difference": -14.049999999999955,
-        "percentage": 0,
-        "status": "NO_DATA",
-        "timestamp": "09:46:15"
-      },
-      "last_update": "09:46:15",
+      "last_update": "09:50:06",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0

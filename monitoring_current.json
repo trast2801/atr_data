@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-30T07:37:41.424036",
+  "timestamp": "2026-02-03T04:58:46.268969",
   "total_tickers": 40,
   "data": [
     {
@@ -8,17 +8,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 2.625,
+      "baseline_atr": 3.8699999999999903,
       "comparison": {
         "symbol": "SBER",
         "current_range": 0,
-        "baseline_atr": 2.625,
-        "difference": -2.625,
+        "baseline_atr": 3.8699999999999903,
+        "difference": -3.8699999999999903,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:17"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:17",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -29,17 +29,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 0.14183333333333317,
+      "baseline_atr": 0.18599999999999936,
       "comparison": {
         "symbol": "CNYRUB_TOM",
         "current_range": 0,
-        "baseline_atr": 0.14183333333333317,
-        "difference": -0.14183333333333317,
+        "baseline_atr": 0.18599999999999936,
+        "difference": -0.18599999999999936,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:17"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:17",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -50,17 +50,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 0.168333333333333,
+      "baseline_atr": 0.19799999999999982,
       "comparison": {
         "symbol": "CRH6",
         "current_range": 0,
-        "baseline_atr": 0.168333333333333,
-        "difference": -0.168333333333333,
+        "baseline_atr": 0.19799999999999982,
+        "difference": -0.19799999999999982,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:18"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:18",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -71,17 +71,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 1133.6666666666667,
+      "baseline_atr": 1303.3333333333333,
       "comparison": {
         "symbol": "SiH6",
         "current_range": 0,
-        "baseline_atr": 1133.6666666666667,
-        "difference": -1133.6666666666667,
+        "baseline_atr": 1303.3333333333333,
+        "difference": -1303.3333333333333,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:18"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:18",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -92,17 +92,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 1595.3333333333333,
+      "baseline_atr": 1623.3333333333333,
       "comparison": {
         "symbol": "EuH6",
         "current_range": 0,
-        "baseline_atr": 1595.3333333333333,
-        "difference": -1595.3333333333333,
+        "baseline_atr": 1623.3333333333333,
+        "difference": -1623.3333333333333,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:19"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:19",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -113,17 +113,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 0.1616666666666665,
+      "baseline_atr": 0.1886666666666669,
       "comparison": {
         "symbol": "CNYRUBF",
         "current_range": 0,
-        "baseline_atr": 0.1616666666666665,
-        "difference": -0.1616666666666665,
+        "baseline_atr": 0.1886666666666669,
+        "difference": -0.1886666666666669,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:20"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:20",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -134,17 +134,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 2.7749999999999986,
+      "baseline_atr": 6.869999999999997,
       "comparison": {
         "symbol": "RAGR",
         "current_range": 0,
-        "baseline_atr": 2.7749999999999986,
-        "difference": -2.7749999999999986,
+        "baseline_atr": 6.869999999999997,
+        "difference": -6.869999999999997,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:20"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:20",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -155,17 +155,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 95.75,
+      "baseline_atr": 101.875,
       "comparison": {
         "symbol": "OZON",
         "current_range": 0,
-        "baseline_atr": 95.75,
-        "difference": -95.75,
+        "baseline_atr": 101.875,
+        "difference": -101.875,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:21"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:21",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -176,17 +176,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 1.3149999999999995,
+      "baseline_atr": 1.1575000000000024,
       "comparison": {
         "symbol": "AFLT",
         "current_range": 0,
-        "baseline_atr": 1.3149999999999995,
-        "difference": -1.3149999999999995,
+        "baseline_atr": 1.1575000000000024,
+        "difference": -1.1575000000000024,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:22"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:22",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -205,9 +205,9 @@
         "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:22"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:22",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -218,17 +218,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 2.9599999999999937,
+      "baseline_atr": 3.549999999999997,
       "comparison": {
         "symbol": "SBERP",
         "current_range": 0,
-        "baseline_atr": 2.9599999999999937,
-        "difference": -2.9599999999999937,
+        "baseline_atr": 3.549999999999997,
+        "difference": -3.549999999999997,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:23"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:23",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -239,17 +239,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 2.609999999999996,
+      "baseline_atr": 2.3074999999999974,
       "comparison": {
         "symbol": "GAZP",
         "current_range": 0,
-        "baseline_atr": 2.609999999999996,
-        "difference": -2.609999999999996,
+        "baseline_atr": 2.3074999999999974,
+        "difference": -2.3074999999999974,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:24"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:24",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -260,17 +260,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 85.375,
+      "baseline_atr": 0,
       "comparison": {
         "symbol": "LKOH",
         "current_range": 0,
-        "baseline_atr": 85.375,
-        "difference": -85.375,
+        "baseline_atr": 0,
+        "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:24"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:24",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -281,17 +281,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 3.049999999999997,
+      "baseline_atr": 5.759999999999998,
       "comparison": {
         "symbol": "GMKN",
         "current_range": 0,
-        "baseline_atr": 3.049999999999997,
-        "difference": -3.049999999999997,
+        "baseline_atr": 5.759999999999998,
+        "difference": -5.759999999999998,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:25"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:25",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -302,17 +302,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 5.924999999999997,
+      "baseline_atr": 6.362499999999983,
       "comparison": {
         "symbol": "ROSN",
         "current_range": 0,
-        "baseline_atr": 5.924999999999997,
-        "difference": -5.924999999999997,
+        "baseline_atr": 6.362499999999983,
+        "difference": -6.362499999999983,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:26"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:26",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -323,17 +323,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 28.0,
+      "baseline_atr": 24.450000000000045,
       "comparison": {
         "symbol": "NVTK",
         "current_range": 0,
-        "baseline_atr": 28.0,
-        "difference": -28.0,
+        "baseline_atr": 24.450000000000045,
+        "difference": -24.450000000000045,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:26"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:26",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -344,17 +344,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 11.44999999999996,
+      "baseline_atr": 10.999999999999972,
       "comparison": {
         "symbol": "TATN",
         "current_range": 0,
-        "baseline_atr": 11.44999999999996,
-        "difference": -11.44999999999996,
+        "baseline_atr": 10.999999999999972,
+        "difference": -10.999999999999972,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:27"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:27",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -365,17 +365,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 2.6499999999999844,
+      "baseline_atr": 2.799999999999997,
       "comparison": {
         "symbol": "MTSS",
         "current_range": 0,
-        "baseline_atr": 2.6499999999999844,
-        "difference": -2.6499999999999844,
+        "baseline_atr": 2.799999999999997,
+        "difference": -2.799999999999997,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:27"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:27",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -386,17 +386,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 44.39999999999998,
+      "baseline_atr": 106.15000000000009,
       "comparison": {
         "symbol": "PLZL",
         "current_range": 0,
-        "baseline_atr": 44.39999999999998,
-        "difference": -44.39999999999998,
+        "baseline_atr": 106.15000000000009,
+        "difference": -106.15000000000009,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:28"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:28",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -407,17 +407,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 72.0,
+      "baseline_atr": 71.0,
       "comparison": {
         "symbol": "MGNT",
         "current_range": 0,
-        "baseline_atr": 72.0,
-        "difference": -72.0,
+        "baseline_atr": 71.0,
+        "difference": -71.0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:28"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:28",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -428,17 +428,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 0,
+      "baseline_atr": 1.485000000000003,
       "comparison": {
         "symbol": "RTKM",
         "current_range": 0,
-        "baseline_atr": 0,
-        "difference": 0,
+        "baseline_atr": 1.485000000000003,
+        "difference": -1.485000000000003,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:29"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:29",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -449,17 +449,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 0.684999999999997,
+      "baseline_atr": 0.9299999999999997,
       "comparison": {
         "symbol": "ALRS",
         "current_range": 0,
-        "baseline_atr": 0.684999999999997,
-        "difference": -0.684999999999997,
+        "baseline_atr": 0.9299999999999997,
+        "difference": -0.9299999999999997,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:30"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:30",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -470,17 +470,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 0.2637500000000008,
+      "baseline_atr": 0.39500000000000046,
       "comparison": {
         "symbol": "SNGS",
         "current_range": 0,
-        "baseline_atr": 0.2637500000000008,
-        "difference": -0.2637500000000008,
+        "baseline_atr": 0.39500000000000046,
+        "difference": -0.39500000000000046,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:30"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:30",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -491,17 +491,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 0.7924999999999986,
+      "baseline_atr": 0,
       "comparison": {
         "symbol": "SNGSP",
         "current_range": 0,
-        "baseline_atr": 0.7924999999999986,
-        "difference": -0.7924999999999986,
+        "baseline_atr": 0,
+        "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:31"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:31",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -512,17 +512,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 17.19999999999996,
+      "baseline_atr": 29.75000000000003,
       "comparison": {
         "symbol": "CHMF",
         "current_range": 0,
-        "baseline_atr": 17.19999999999996,
-        "difference": -17.19999999999996,
+        "baseline_atr": 29.75000000000003,
+        "difference": -29.75000000000003,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:31"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:31",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -533,17 +533,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 1.980000000000004,
+      "baseline_atr": 3.8400000000000034,
       "comparison": {
         "symbol": "NLMK",
         "current_range": 0,
-        "baseline_atr": 1.980000000000004,
-        "difference": -1.980000000000004,
+        "baseline_atr": 3.8400000000000034,
+        "difference": -3.8400000000000034,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:32"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:32",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -554,17 +554,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 105.25,
+      "baseline_atr": 76.75,
       "comparison": {
         "symbol": "PHOR",
         "current_range": 0,
-        "baseline_atr": 105.25,
-        "difference": -105.25,
+        "baseline_atr": 76.75,
+        "difference": -76.75,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:32"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:32",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -575,17 +575,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 0.24300000000000033,
+      "baseline_atr": 0.3805000000000005,
       "comparison": {
         "symbol": "AFKS",
         "current_range": 0,
-        "baseline_atr": 0.24300000000000033,
-        "difference": -0.24300000000000033,
+        "baseline_atr": 0.3805000000000005,
+        "difference": -0.3805000000000005,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:33"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:33",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -596,17 +596,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 0.09849999999999959,
+      "baseline_atr": 0.12075000000000014,
       "comparison": {
         "symbol": "CBOM",
         "current_range": 0,
-        "baseline_atr": 0.09849999999999959,
-        "difference": -0.09849999999999959,
+        "baseline_atr": 0.12075000000000014,
+        "difference": -0.12075000000000014,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:33"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:33",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -617,17 +617,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 21.299999999999898,
+      "baseline_atr": 0,
       "comparison": {
         "symbol": "POSI",
         "current_range": 0,
-        "baseline_atr": 21.299999999999898,
-        "difference": -21.299999999999898,
+        "baseline_atr": 0,
+        "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:34"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:34",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -638,17 +638,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 0.8099999999999952,
+      "baseline_atr": 2.4025000000000034,
       "comparison": {
         "symbol": "VTBR",
         "current_range": 0,
-        "baseline_atr": 0.8099999999999952,
-        "difference": -0.8099999999999952,
+        "baseline_atr": 2.4025000000000034,
+        "difference": -2.4025000000000034,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:35"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:35",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -659,17 +659,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 35.15000000000009,
+      "baseline_atr": 39.09999999999991,
       "comparison": {
         "symbol": "T",
         "current_range": 0,
-        "baseline_atr": 35.15000000000009,
-        "difference": -35.15000000000009,
+        "baseline_atr": 39.09999999999991,
+        "difference": -39.09999999999991,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:36"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:36",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -680,17 +680,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 0.9512499999999982,
+      "baseline_atr": 1.866249999999999,
       "comparison": {
         "symbol": "RUAL",
         "current_range": 0,
-        "baseline_atr": 0.9512499999999982,
-        "difference": -0.9512499999999982,
+        "baseline_atr": 1.866249999999999,
+        "difference": -1.866249999999999,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:36"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:36",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -701,17 +701,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 0.012800000000000006,
+      "baseline_atr": 0.011874999999999997,
       "comparison": {
         "symbol": "HYDR",
         "current_range": 0,
-        "baseline_atr": 0.012800000000000006,
-        "difference": -0.012800000000000006,
+        "baseline_atr": 0.011874999999999997,
+        "difference": -0.011874999999999997,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:37"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:37",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -722,17 +722,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 0.5349999999999993,
+      "baseline_atr": 1.1075,
       "comparison": {
         "symbol": "MAGN",
         "current_range": 0,
-        "baseline_atr": 0.5349999999999993,
-        "difference": -0.5349999999999993,
+        "baseline_atr": 1.1075,
+        "difference": -1.1075,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:38"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:38",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -743,17 +743,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 9.84999999999998,
+      "baseline_atr": 9.474999999999994,
       "comparison": {
         "symbol": "PIKK",
         "current_range": 0,
-        "baseline_atr": 9.84999999999998,
-        "difference": -9.84999999999998,
+        "baseline_atr": 9.474999999999994,
+        "difference": -9.474999999999994,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:38"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:38",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -764,17 +764,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 0.0020599999999999993,
+      "baseline_atr": 0.002100000000000001,
       "comparison": {
         "symbol": "FEES",
         "current_range": 0,
-        "baseline_atr": 0.0020599999999999993,
-        "difference": -0.0020599999999999993,
+        "baseline_atr": 0.002100000000000001,
+        "difference": -0.002100000000000001,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:39"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:39",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -793,9 +793,9 @@
         "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:40"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:40",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -806,17 +806,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 17.249999999999943,
+      "baseline_atr": 0,
       "comparison": {
         "symbol": "TRNFP",
         "current_range": 0,
-        "baseline_atr": 17.249999999999943,
-        "difference": -17.249999999999943,
+        "baseline_atr": 0,
+        "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:40"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:40",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -827,17 +827,17 @@
       "current_range": 0,
       "high": 0,
       "low": 0,
-      "baseline_atr": 0,
+      "baseline_atr": 27.399999999999977,
       "comparison": {
         "symbol": "MDMG",
         "current_range": 0,
-        "baseline_atr": 0,
-        "difference": 0,
+        "baseline_atr": 27.399999999999977,
+        "difference": -27.399999999999977,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "07:37:41"
+        "timestamp": "04:58:46"
       },
-      "last_update": "07:37:41",
+      "last_update": "04:58:46",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0

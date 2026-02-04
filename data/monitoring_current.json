@@ -1,87 +1,7 @@
 {
-  "timestamp": "2026-02-04T05:59:59.246588",
+  "timestamp": "2026-02-04T06:03:40.380132",
   "total_tickers": 40,
   "data": [
-    {
-      "symbol": "EuH6",
-      "name": "Фьючерс (Eu-3.26)",
-      "current_range": 446.0,
-      "high": 93065.0,
-      "low": 92619.0,
-      "baseline_atr": 1417.6666666666667,
-      "comparison": {
-        "symbol": "EuH6",
-        "current_range": 446.0,
-        "baseline_atr": 1417.6666666666667,
-        "difference": -971.6666666666667,
-        "percentage": 31.4601457794498,
-        "status": "NORMAL",
-        "timestamp": "05:59:26"
-      },
-      "last_update": "05:59:26",
-      "formatted_comparison": "на 68.5% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "CNYRUBF",
-      "name": "Фьючерс CNY/RUB",
-      "current_range": 0.054999999999999716,
-      "high": 11.154,
-      "low": 11.099,
-      "baseline_atr": 0.17966666666666717,
-      "comparison": {
-        "symbol": "CNYRUBF",
-        "current_range": 0.054999999999999716,
-        "baseline_atr": 0.17966666666666717,
-        "difference": -0.12466666666666745,
-        "percentage": 30.61224489795894,
-        "status": "NORMAL",
-        "timestamp": "05:59:27"
-      },
-      "last_update": "05:59:27",
-      "formatted_comparison": "на 69.4% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "SiH6",
-      "name": "Фьючерс (Si-3.26)",
-      "current_range": 320.0,
-      "high": 78369.0,
-      "low": 78049.0,
-      "baseline_atr": 1109.3333333333333,
-      "comparison": {
-        "symbol": "SiH6",
-        "current_range": 320.0,
-        "baseline_atr": 1109.3333333333333,
-        "difference": -789.3333333333333,
-        "percentage": 28.84615384615385,
-        "status": "NORMAL",
-        "timestamp": "05:59:25"
-      },
-      "last_update": "05:59:25",
-      "formatted_comparison": "на 71.2% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "CRH6",
-      "name": "Фьючерс CNY-3.26",
-      "current_range": 0.0470000000000006,
-      "high": 11.327,
-      "low": 11.28,
-      "baseline_atr": 0.1813333333333329,
-      "comparison": {
-        "symbol": "CRH6",
-        "current_range": 0.0470000000000006,
-        "baseline_atr": 0.1813333333333329,
-        "difference": -0.1343333333333323,
-        "percentage": 25.919117647059213,
-        "status": "NORMAL",
-        "timestamp": "05:59:24"
-      },
-      "last_update": "05:59:24",
-      "formatted_comparison": "на 74.1% меньше базового",
-      "excess_percent": 0
-    },
     {
       "symbol": "SBER",
       "name": "Сбербанк",
@@ -96,9 +16,9 @@
         "difference": -3.7449999999999903,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:23"
+        "timestamp": "06:03:04"
       },
-      "last_update": "05:59:23",
+      "last_update": "06:03:04",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -117,9 +37,93 @@
         "difference": -0.2132499999999995,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:23"
+        "timestamp": "06:03:05"
       },
-      "last_update": "05:59:23",
+      "last_update": "06:03:05",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "CRH6",
+      "name": "Фьючерс CNY-3.26",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 0.1813333333333329,
+      "comparison": {
+        "symbol": "CRH6",
+        "current_range": 0,
+        "baseline_atr": 0.1813333333333329,
+        "difference": -0.1813333333333329,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "06:03:06"
+      },
+      "last_update": "06:03:06",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "SiH6",
+      "name": "Фьючерс (Si-3.26)",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 1109.3333333333333,
+      "comparison": {
+        "symbol": "SiH6",
+        "current_range": 0,
+        "baseline_atr": 1109.3333333333333,
+        "difference": -1109.3333333333333,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "06:03:07"
+      },
+      "last_update": "06:03:07",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "EuH6",
+      "name": "Фьючерс (Eu-3.26)",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 1417.6666666666667,
+      "comparison": {
+        "symbol": "EuH6",
+        "current_range": 0,
+        "baseline_atr": 1417.6666666666667,
+        "difference": -1417.6666666666667,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "06:03:08"
+      },
+      "last_update": "06:03:08",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "CNYRUBF",
+      "name": "Фьючерс CNY/RUB",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 0.17966666666666717,
+      "comparison": {
+        "symbol": "CNYRUBF",
+        "current_range": 0,
+        "baseline_atr": 0.17966666666666717,
+        "difference": -0.17966666666666717,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "06:03:08"
+      },
+      "last_update": "06:03:08",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -138,9 +142,9 @@
         "difference": -6.1299999999999955,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:28"
+        "timestamp": "06:03:10"
       },
-      "last_update": "05:59:28",
+      "last_update": "06:03:10",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -159,9 +163,9 @@
         "difference": -113.125,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:29"
+        "timestamp": "06:03:11"
       },
-      "last_update": "05:59:29",
+      "last_update": "06:03:11",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -180,9 +184,9 @@
         "difference": -1.1625000000000014,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:29"
+        "timestamp": "06:03:11"
       },
-      "last_update": "05:59:29",
+      "last_update": "06:03:11",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -201,9 +205,9 @@
         "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:30"
+        "timestamp": "06:03:12"
       },
-      "last_update": "05:59:30",
+      "last_update": "06:03:12",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -222,9 +226,9 @@
         "difference": -3.552499999999995,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:31"
+        "timestamp": "06:03:13"
       },
-      "last_update": "05:59:31",
+      "last_update": "06:03:13",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -243,9 +247,9 @@
         "difference": -2.0025000000000013,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:32"
+        "timestamp": "06:03:14"
       },
-      "last_update": "05:59:32",
+      "last_update": "06:03:14",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -264,9 +268,9 @@
         "difference": -98.5,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:33"
+        "timestamp": "06:03:15"
       },
-      "last_update": "05:59:33",
+      "last_update": "06:03:15",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -285,9 +289,9 @@
         "difference": -5.659999999999997,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:34"
+        "timestamp": "06:03:16"
       },
-      "last_update": "05:59:34",
+      "last_update": "06:03:16",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -306,9 +310,9 @@
         "difference": -7.037499999999994,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:35"
+        "timestamp": "06:03:17"
       },
-      "last_update": "05:59:35",
+      "last_update": "06:03:17",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -327,9 +331,9 @@
         "difference": -21.750000000000057,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:36"
+        "timestamp": "06:03:18"
       },
-      "last_update": "05:59:36",
+      "last_update": "06:03:18",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -348,9 +352,9 @@
         "difference": -12.07499999999996,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:36"
+        "timestamp": "06:03:19"
       },
-      "last_update": "05:59:36",
+      "last_update": "06:03:19",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -369,9 +373,9 @@
         "difference": -1.9249999999999972,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:37"
+        "timestamp": "06:03:20"
       },
-      "last_update": "05:59:37",
+      "last_update": "06:03:20",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -390,9 +394,9 @@
         "difference": -104.55000000000007,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:38"
+        "timestamp": "06:03:21"
       },
-      "last_update": "05:59:38",
+      "last_update": "06:03:21",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -411,9 +415,9 @@
         "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:40"
+        "timestamp": "06:03:22"
       },
-      "last_update": "05:59:40",
+      "last_update": "06:03:22",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -432,9 +436,9 @@
         "difference": -1.3750000000000036,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:41"
+        "timestamp": "06:03:23"
       },
-      "last_update": "05:59:41",
+      "last_update": "06:03:23",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -453,9 +457,9 @@
         "difference": -0.7825000000000006,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:42"
+        "timestamp": "06:03:24"
       },
-      "last_update": "05:59:42",
+      "last_update": "06:03:24",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -474,9 +478,9 @@
         "difference": -0.4250000000000007,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:42"
+        "timestamp": "06:03:25"
       },
-      "last_update": "05:59:42",
+      "last_update": "06:03:25",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -495,9 +499,9 @@
         "difference": -0.6574999999999989,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:43"
+        "timestamp": "06:03:26"
       },
-      "last_update": "05:59:43",
+      "last_update": "06:03:26",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -516,9 +520,9 @@
         "difference": -28.099999999999994,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:45"
+        "timestamp": "06:03:27"
       },
-      "last_update": "05:59:45",
+      "last_update": "06:03:27",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -537,9 +541,9 @@
         "difference": -3.430000000000007,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:45"
+        "timestamp": "06:03:28"
       },
-      "last_update": "05:59:45",
+      "last_update": "06:03:28",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -558,9 +562,9 @@
         "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:46"
+        "timestamp": "06:03:28"
       },
-      "last_update": "05:59:46",
+      "last_update": "06:03:28",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -579,9 +583,9 @@
         "difference": -0.4032500000000008,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:47"
+        "timestamp": "06:03:30"
       },
-      "last_update": "05:59:47",
+      "last_update": "06:03:30",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -600,9 +604,9 @@
         "difference": -0.1152500000000003,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:48"
+        "timestamp": "06:03:30"
       },
-      "last_update": "05:59:48",
+      "last_update": "06:03:30",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -621,9 +625,9 @@
         "difference": -39.349999999999966,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:49"
+        "timestamp": "06:03:31"
       },
-      "last_update": "05:59:49",
+      "last_update": "06:03:31",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -642,9 +646,9 @@
         "difference": -3.5700000000000003,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:50"
+        "timestamp": "06:03:32"
       },
-      "last_update": "05:59:50",
+      "last_update": "06:03:32",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -663,9 +667,9 @@
         "difference": -38.399999999999864,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:51"
+        "timestamp": "06:03:33"
       },
-      "last_update": "05:59:51",
+      "last_update": "06:03:33",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -684,9 +688,9 @@
         "difference": -1.8549999999999986,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:52"
+        "timestamp": "06:03:34"
       },
-      "last_update": "05:59:52",
+      "last_update": "06:03:34",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -705,9 +709,9 @@
         "difference": -0.015075000000000005,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:53"
+        "timestamp": "06:03:35"
       },
-      "last_update": "05:59:53",
+      "last_update": "06:03:35",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -726,9 +730,9 @@
         "difference": -1.0862500000000006,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:54"
+        "timestamp": "06:03:36"
       },
-      "last_update": "05:59:54",
+      "last_update": "06:03:36",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -747,9 +751,9 @@
         "difference": -8.074999999999989,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:55"
+        "timestamp": "06:03:36"
       },
-      "last_update": "05:59:55",
+      "last_update": "06:03:36",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -768,9 +772,9 @@
         "difference": -0.0019500000000000003,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:56"
+        "timestamp": "06:03:37"
       },
-      "last_update": "05:59:56",
+      "last_update": "06:03:37",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -789,9 +793,9 @@
         "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:57"
+        "timestamp": "06:03:38"
       },
-      "last_update": "05:59:57",
+      "last_update": "06:03:38",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -810,9 +814,9 @@
         "difference": -14.049999999999955,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:58"
+        "timestamp": "06:03:39"
       },
-      "last_update": "05:59:58",
+      "last_update": "06:03:39",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -831,9 +835,9 @@
         "difference": -28.924999999999955,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "05:59:59"
+        "timestamp": "06:03:40"
       },
-      "last_update": "05:59:59",
+      "last_update": "06:03:40",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0

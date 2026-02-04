@@ -1,705 +1,26 @@
 {
-  "timestamp": "2026-02-04T09:36:18.338734",
+  "timestamp": "2026-02-04T09:40:09.129663",
   "total_tickers": 40,
   "data": [
     {
-      "symbol": "MTSS",
-      "name": "МТС",
-      "current_range": 2.0999999999999943,
-      "high": 229.65,
-      "low": 227.55,
-      "baseline_atr": 1.9249999999999972,
-      "comparison": {
-        "symbol": "MTSS",
-        "current_range": 2.0999999999999943,
-        "baseline_atr": 1.9249999999999972,
-        "difference": 0.17499999999999716,
-        "percentage": 109.09090909090895,
-        "status": "NORMAL",
-        "timestamp": "09:35:57"
-      },
-      "last_update": "09:35:57",
-      "formatted_comparison": "на 9.1% больше базового",
-      "excess_percent": 9.090909090908951
-    },
-    {
-      "symbol": "RTKM",
-      "name": "Ростелеком",
-      "current_range": 1.25,
-      "high": 67.58,
-      "low": 66.33,
-      "baseline_atr": 1.3750000000000036,
-      "comparison": {
-        "symbol": "RTKM",
-        "current_range": 1.25,
-        "baseline_atr": 1.3750000000000036,
-        "difference": -0.12500000000000355,
-        "percentage": 90.90909090909068,
-        "status": "NORMAL",
-        "timestamp": "09:35:59"
-      },
-      "last_update": "09:35:59",
-      "formatted_comparison": "на 9.1% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "HYDR",
-      "name": "РусГидро",
-      "current_range": 0.012200000000000044,
-      "high": 0.459,
-      "low": 0.4468,
-      "baseline_atr": 0.015075000000000005,
-      "comparison": {
-        "symbol": "HYDR",
-        "current_range": 0.012200000000000044,
-        "baseline_atr": 0.015075000000000005,
-        "difference": -0.002874999999999961,
-        "percentage": 80.92868988391403,
-        "status": "NORMAL",
-        "timestamp": "09:36:12"
-      },
-      "last_update": "09:36:12",
-      "formatted_comparison": "на 19.1% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "CBOM",
-      "name": "МКБ",
-      "current_range": 0.08699999999999974,
-      "high": 6.27,
-      "low": 6.183,
-      "baseline_atr": 0.1152500000000003,
-      "comparison": {
-        "symbol": "CBOM",
-        "current_range": 0.08699999999999974,
-        "baseline_atr": 0.1152500000000003,
-        "difference": -0.028250000000000552,
-        "percentage": 75.48806941431629,
-        "status": "NORMAL",
-        "timestamp": "09:36:07"
-      },
-      "last_update": "09:36:07",
-      "formatted_comparison": "на 24.5% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "PIKK",
-      "name": "ПИК",
-      "current_range": 5.199999999999989,
-      "high": 482.0,
-      "low": 476.8,
-      "baseline_atr": 8.074999999999989,
-      "comparison": {
-        "symbol": "PIKK",
-        "current_range": 5.199999999999989,
-        "baseline_atr": 8.074999999999989,
-        "difference": -2.875,
-        "percentage": 64.39628482972132,
-        "status": "NORMAL",
-        "timestamp": "09:36:14"
-      },
-      "last_update": "09:36:14",
-      "formatted_comparison": "на 35.6% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "CHMF",
-      "name": "Северсталь",
-      "current_range": 11.200000000000045,
-      "high": 996.2,
-      "low": 985.0,
-      "baseline_atr": 28.099999999999994,
-      "comparison": {
-        "symbol": "CHMF",
-        "current_range": 11.200000000000045,
-        "baseline_atr": 28.099999999999994,
-        "difference": -16.89999999999995,
-        "percentage": 39.85765124555177,
-        "status": "NORMAL",
-        "timestamp": "09:36:03"
-      },
-      "last_update": "09:36:03",
-      "formatted_comparison": "на 60.1% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "TATN",
-      "name": "Татнефть",
-      "current_range": 4.800000000000068,
-      "high": 569.7,
-      "low": 564.9,
-      "baseline_atr": 12.07499999999996,
-      "comparison": {
-        "symbol": "TATN",
-        "current_range": 4.800000000000068,
-        "baseline_atr": 12.07499999999996,
-        "difference": -7.274999999999892,
-        "percentage": 39.751552795031756,
-        "status": "NORMAL",
-        "timestamp": "09:35:56"
-      },
-      "last_update": "09:35:56",
-      "formatted_comparison": "на 60.2% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "FEES",
-      "name": "ФСК ЕЭС",
-      "current_range": 0.0007599999999999968,
-      "high": 0.0768,
-      "low": 0.07604,
-      "baseline_atr": 0.0019500000000000003,
-      "comparison": {
-        "symbol": "FEES",
-        "current_range": 0.0007599999999999968,
-        "baseline_atr": 0.0019500000000000003,
-        "difference": -0.0011900000000000036,
-        "percentage": 38.9743589743588,
-        "status": "NORMAL",
-        "timestamp": "09:36:15"
-      },
-      "last_update": "09:36:15",
-      "formatted_comparison": "на 61.0% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "MAGN",
-      "name": "ММК",
-      "current_range": 0.4200000000000017,
-      "high": 32.28,
-      "low": 31.86,
-      "baseline_atr": 1.0862500000000006,
-      "comparison": {
-        "symbol": "MAGN",
-        "current_range": 0.4200000000000017,
-        "baseline_atr": 1.0862500000000006,
-        "difference": -0.6662499999999989,
-        "percentage": 38.66513233601855,
-        "status": "NORMAL",
-        "timestamp": "09:36:13"
-      },
-      "last_update": "09:36:13",
-      "formatted_comparison": "на 61.3% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "MDMG",
-      "name": "М.видео",
-      "current_range": 11.0,
-      "high": 1529.0,
-      "low": 1518.0,
-      "baseline_atr": 28.924999999999955,
-      "comparison": {
-        "symbol": "MDMG",
-        "current_range": 11.0,
-        "baseline_atr": 28.924999999999955,
-        "difference": -17.924999999999955,
-        "percentage": 38.029386343993146,
-        "status": "NORMAL",
-        "timestamp": "09:36:18"
-      },
-      "last_update": "09:36:18",
-      "formatted_comparison": "на 62.0% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "AFLT",
-      "name": "Аэрофлот",
-      "current_range": 0.44000000000000483,
-      "high": 58.34,
-      "low": 57.9,
-      "baseline_atr": 1.1625000000000014,
-      "comparison": {
-        "symbol": "AFLT",
-        "current_range": 0.44000000000000483,
-        "baseline_atr": 1.1625000000000014,
-        "difference": -0.7224999999999966,
-        "percentage": 37.84946236559177,
-        "status": "NORMAL",
-        "timestamp": "09:35:49"
-      },
-      "last_update": "09:35:49",
-      "formatted_comparison": "на 62.2% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "NLMK",
-      "name": "НЛМК",
-      "current_range": 1.2600000000000051,
-      "high": 115.14,
-      "low": 113.88,
-      "baseline_atr": 3.430000000000007,
-      "comparison": {
-        "symbol": "NLMK",
-        "current_range": 1.2600000000000051,
-        "baseline_atr": 3.430000000000007,
-        "difference": -2.1700000000000017,
-        "percentage": 36.734693877551095,
-        "status": "NORMAL",
-        "timestamp": "09:36:04"
-      },
-      "last_update": "09:36:04",
-      "formatted_comparison": "на 63.3% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "SNGSP",
-      "name": "Сургутнефтегаз (прив.)",
-      "current_range": 0.240000000000002,
-      "high": 44.715,
-      "low": 44.475,
-      "baseline_atr": 0.6574999999999989,
-      "comparison": {
-        "symbol": "SNGSP",
-        "current_range": 0.240000000000002,
-        "baseline_atr": 0.6574999999999989,
-        "difference": -0.4174999999999969,
-        "percentage": 36.50190114068478,
-        "status": "NORMAL",
-        "timestamp": "09:36:02"
-      },
-      "last_update": "09:36:02",
-      "formatted_comparison": "на 63.5% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "CRH6",
-      "name": "Фьючерс CNY-3.26",
-      "current_range": 0.06600000000000072,
-      "high": 11.348,
-      "low": 11.282,
-      "baseline_atr": 0.1813333333333329,
-      "comparison": {
-        "symbol": "CRH6",
-        "current_range": 0.06600000000000072,
-        "baseline_atr": 0.1813333333333329,
-        "difference": -0.11533333333333218,
-        "percentage": 36.397058823529896,
-        "status": "NORMAL",
-        "timestamp": "09:35:43"
-      },
-      "last_update": "09:35:43",
-      "formatted_comparison": "на 63.6% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "SiH6",
-      "name": "Фьючерс (Si-3.26)",
-      "current_range": 380.0,
-      "high": 78400.0,
-      "low": 78020.0,
-      "baseline_atr": 1109.3333333333333,
-      "comparison": {
-        "symbol": "SiH6",
-        "current_range": 380.0,
-        "baseline_atr": 1109.3333333333333,
-        "difference": -729.3333333333333,
-        "percentage": 34.25480769230769,
-        "status": "NORMAL",
-        "timestamp": "09:35:44"
-      },
-      "last_update": "09:35:44",
-      "formatted_comparison": "на 65.7% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "CNYRUBF",
-      "name": "Фьючерс CNY/RUB",
-      "current_range": 0.0600000000000005,
-      "high": 11.162,
-      "low": 11.102,
-      "baseline_atr": 0.17966666666666717,
-      "comparison": {
-        "symbol": "CNYRUBF",
-        "current_range": 0.0600000000000005,
-        "baseline_atr": 0.17966666666666717,
-        "difference": -0.11966666666666667,
-        "percentage": 33.39517625231929,
-        "status": "NORMAL",
-        "timestamp": "09:35:46"
-      },
-      "last_update": "09:35:46",
-      "formatted_comparison": "на 66.6% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "TRNFP",
-      "name": "Транснефть (прив.)",
-      "current_range": 4.599999999999909,
-      "high": 1411.0,
-      "low": 1406.4,
-      "baseline_atr": 14.049999999999955,
-      "comparison": {
-        "symbol": "TRNFP",
-        "current_range": 4.599999999999909,
-        "baseline_atr": 14.049999999999955,
-        "difference": -9.450000000000045,
-        "percentage": 32.74021352313113,
-        "status": "NORMAL",
-        "timestamp": "09:36:17"
-      },
-      "last_update": "09:36:17",
-      "formatted_comparison": "на 67.3% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "LKOH",
-      "name": "ЛУКОЙЛ",
-      "current_range": 32.0,
-      "high": 5247.0,
-      "low": 5215.0,
-      "baseline_atr": 98.5,
-      "comparison": {
-        "symbol": "LKOH",
-        "current_range": 32.0,
-        "baseline_atr": 98.5,
-        "difference": -66.5,
-        "percentage": 32.48730964467005,
-        "status": "NORMAL",
-        "timestamp": "09:35:52"
-      },
-      "last_update": "09:35:52",
-      "formatted_comparison": "на 67.5% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "EuH6",
-      "name": "Фьючерс (Eu-3.26)",
-      "current_range": 460.0,
-      "high": 93209.0,
-      "low": 92749.0,
-      "baseline_atr": 1417.6666666666667,
-      "comparison": {
-        "symbol": "EuH6",
-        "current_range": 460.0,
-        "baseline_atr": 1417.6666666666667,
-        "difference": -957.6666666666667,
-        "percentage": 32.44768398777333,
-        "status": "NORMAL",
-        "timestamp": "09:35:45"
-      },
-      "last_update": "09:35:45",
-      "formatted_comparison": "на 67.6% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "T",
-      "name": "TCS Group Holding (Тинькофф)",
-      "current_range": 12.0,
-      "high": 3369.4,
-      "low": 3357.4,
-      "baseline_atr": 38.399999999999864,
-      "comparison": {
-        "symbol": "T",
-        "current_range": 12.0,
-        "baseline_atr": 38.399999999999864,
-        "difference": -26.399999999999864,
-        "percentage": 31.25000000000011,
-        "status": "NORMAL",
-        "timestamp": "09:36:10"
-      },
-      "last_update": "09:36:10",
-      "formatted_comparison": "на 68.7% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "SBERP",
-      "name": "Сбербанк - прив.",
-      "current_range": 1.0900000000000318,
-      "high": 304.68,
-      "low": 303.59,
-      "baseline_atr": 3.552499999999995,
-      "comparison": {
-        "symbol": "SBERP",
-        "current_range": 1.0900000000000318,
-        "baseline_atr": 3.552499999999995,
-        "difference": -2.462499999999963,
-        "percentage": 30.68261787473704,
-        "status": "NORMAL",
-        "timestamp": "09:35:50"
-      },
-      "last_update": "09:35:50",
-      "formatted_comparison": "на 69.3% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "VTBR",
-      "name": "Банк ВТБ",
-      "current_range": 1.0949999999999989,
-      "high": 82.465,
-      "low": 81.37,
-      "baseline_atr": 3.5700000000000003,
-      "comparison": {
-        "symbol": "VTBR",
-        "current_range": 1.0949999999999989,
-        "baseline_atr": 3.5700000000000003,
-        "difference": -2.4750000000000014,
-        "percentage": 30.672268907562987,
-        "status": "NORMAL",
-        "timestamp": "09:36:09"
-      },
-      "last_update": "09:36:09",
-      "formatted_comparison": "на 69.3% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "ROSN",
-      "name": "Роснефть",
-      "current_range": 2.1499999999999773,
-      "high": 402.25,
-      "low": 400.1,
-      "baseline_atr": 7.037499999999994,
-      "comparison": {
-        "symbol": "ROSN",
-        "current_range": 2.1499999999999773,
-        "baseline_atr": 7.037499999999994,
-        "difference": -4.887500000000017,
-        "percentage": 30.5506216696267,
-        "status": "NORMAL",
-        "timestamp": "09:35:54"
-      },
-      "last_update": "09:35:54",
-      "formatted_comparison": "на 69.4% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "AFKS",
-      "name": "АФК Система",
-      "current_range": 0.12199999999999989,
-      "high": 13.85,
-      "low": 13.728,
-      "baseline_atr": 0.4032500000000008,
-      "comparison": {
-        "symbol": "AFKS",
-        "current_range": 0.12199999999999989,
-        "baseline_atr": 0.4032500000000008,
-        "difference": -0.2812500000000009,
-        "percentage": 30.25418474891498,
-        "status": "NORMAL",
-        "timestamp": "09:36:06"
-      },
-      "last_update": "09:36:06",
-      "formatted_comparison": "на 69.7% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "GAZP",
-      "name": "Газпром",
-      "current_range": 0.5400000000000063,
-      "high": 127.75,
-      "low": 127.21,
-      "baseline_atr": 2.0025000000000013,
-      "comparison": {
-        "symbol": "GAZP",
-        "current_range": 0.5400000000000063,
-        "baseline_atr": 2.0025000000000013,
-        "difference": -1.462499999999995,
-        "percentage": 26.966292134831754,
-        "status": "NORMAL",
-        "timestamp": "09:35:51"
-      },
-      "last_update": "09:35:51",
-      "formatted_comparison": "на 73.0% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "OZON",
-      "name": "Озон",
-      "current_range": 29.5,
-      "high": 4669.5,
-      "low": 4640.0,
-      "baseline_atr": 113.125,
-      "comparison": {
-        "symbol": "OZON",
-        "current_range": 29.5,
-        "baseline_atr": 113.125,
-        "difference": -83.625,
-        "percentage": 26.077348066298345,
-        "status": "NORMAL",
-        "timestamp": "09:35:48"
-      },
-      "last_update": "09:35:48",
-      "formatted_comparison": "на 73.9% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "SNGS",
-      "name": "Сургутнефтегаз (обыкн.)",
-      "current_range": 0.10999999999999943,
-      "high": 22.37,
-      "low": 22.26,
-      "baseline_atr": 0.4250000000000007,
-      "comparison": {
-        "symbol": "SNGS",
-        "current_range": 0.10999999999999943,
-        "baseline_atr": 0.4250000000000007,
-        "difference": -0.3150000000000013,
-        "percentage": 25.882352941176297,
-        "status": "NORMAL",
-        "timestamp": "09:36:01"
-      },
-      "last_update": "09:36:01",
-      "formatted_comparison": "на 74.1% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "POSI",
-      "name": "Позитив",
-      "current_range": 10.0,
-      "high": 1145.0,
-      "low": 1135.0,
-      "baseline_atr": 39.349999999999966,
-      "comparison": {
-        "symbol": "POSI",
-        "current_range": 10.0,
-        "baseline_atr": 39.349999999999966,
-        "difference": -29.349999999999966,
-        "percentage": 25.412960609911078,
-        "status": "NORMAL",
-        "timestamp": "09:36:08"
-      },
-      "last_update": "09:36:08",
-      "formatted_comparison": "на 74.6% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "PLZL",
-      "name": "Полюс",
-      "current_range": 26.0,
-      "high": 2726.0,
-      "low": 2700.0,
-      "baseline_atr": 104.55000000000007,
-      "comparison": {
-        "symbol": "PLZL",
-        "current_range": 26.0,
-        "baseline_atr": 104.55000000000007,
-        "difference": -78.55000000000007,
-        "percentage": 24.86848397895742,
-        "status": "NORMAL",
-        "timestamp": "09:35:57"
-      },
-      "last_update": "09:35:57",
-      "formatted_comparison": "на 75.1% меньше базового",
-      "excess_percent": 0
-    },
-    {
       "symbol": "SBER",
       "name": "Сбербанк",
-      "current_range": 0.8600000000000136,
-      "high": 304.79,
-      "low": 303.93,
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
       "baseline_atr": 3.7449999999999903,
       "comparison": {
         "symbol": "SBER",
-        "current_range": 0.8600000000000136,
+        "current_range": 0,
         "baseline_atr": 3.7449999999999903,
-        "difference": -2.8849999999999767,
-        "percentage": 22.963951935914974,
-        "status": "NORMAL",
-        "timestamp": "09:35:41"
+        "difference": -3.7449999999999903,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:26"
       },
-      "last_update": "09:35:41",
-      "formatted_comparison": "на 77.0% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "NVTK",
-      "name": "НОВАТЭК",
-      "current_range": 4.900000000000091,
-      "high": 1177.5,
-      "low": 1172.6,
-      "baseline_atr": 21.750000000000057,
-      "comparison": {
-        "symbol": "NVTK",
-        "current_range": 4.900000000000091,
-        "baseline_atr": 21.750000000000057,
-        "difference": -16.849999999999966,
-        "percentage": 22.52873563218427,
-        "status": "NORMAL",
-        "timestamp": "09:35:55"
-      },
-      "last_update": "09:35:55",
-      "formatted_comparison": "на 77.5% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "ALRS",
-      "name": "АЛРОСА",
-      "current_range": 0.1700000000000017,
-      "high": 41.65,
-      "low": 41.48,
-      "baseline_atr": 0.7825000000000006,
-      "comparison": {
-        "symbol": "ALRS",
-        "current_range": 0.1700000000000017,
-        "baseline_atr": 0.7825000000000006,
-        "difference": -0.6124999999999989,
-        "percentage": 21.725239616613617,
-        "status": "NORMAL",
-        "timestamp": "09:36:00"
-      },
-      "last_update": "09:36:00",
-      "formatted_comparison": "на 78.3% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "GMKN",
-      "name": "ГМК Норникель",
-      "current_range": 1.200000000000017,
-      "high": 163.74,
-      "low": 162.54,
-      "baseline_atr": 5.659999999999997,
-      "comparison": {
-        "symbol": "GMKN",
-        "current_range": 1.200000000000017,
-        "baseline_atr": 5.659999999999997,
-        "difference": -4.4599999999999795,
-        "percentage": 21.20141342756215,
-        "status": "NORMAL",
-        "timestamp": "09:35:53"
-      },
-      "last_update": "09:35:53",
-      "formatted_comparison": "на 78.8% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "RAGR",
-      "name": "Росагро",
-      "current_range": 0.8599999999999994,
-      "high": 126.06,
-      "low": 125.2,
-      "baseline_atr": 6.1299999999999955,
-      "comparison": {
-        "symbol": "RAGR",
-        "current_range": 0.8599999999999994,
-        "baseline_atr": 6.1299999999999955,
-        "difference": -5.269999999999996,
-        "percentage": 14.02936378466558,
-        "status": "NORMAL",
-        "timestamp": "09:35:47"
-      },
-      "last_update": "09:35:47",
-      "formatted_comparison": "на 86.0% меньше базового",
-      "excess_percent": 0
-    },
-    {
-      "symbol": "RUAL",
-      "name": "РУСАЛ",
-      "current_range": 0.2600000000000051,
-      "high": 39.31,
-      "low": 39.05,
-      "baseline_atr": 1.8549999999999986,
-      "comparison": {
-        "symbol": "RUAL",
-        "current_range": 0.2600000000000051,
-        "baseline_atr": 1.8549999999999986,
-        "difference": -1.5949999999999935,
-        "percentage": 14.01617250673883,
-        "status": "NORMAL",
-        "timestamp": "09:36:11"
-      },
-      "last_update": "09:36:11",
-      "formatted_comparison": "на 86.0% меньше базового",
+      "last_update": "09:39:26",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
       "excess_percent": 0
     },
     {
@@ -716,9 +37,156 @@
         "difference": -0.2132499999999995,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "09:35:42"
+        "timestamp": "09:39:27"
       },
-      "last_update": "09:35:42",
+      "last_update": "09:39:27",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "CRH6",
+      "name": "Фьючерс CNY-3.26",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 0.1813333333333329,
+      "comparison": {
+        "symbol": "CRH6",
+        "current_range": 0,
+        "baseline_atr": 0.1813333333333329,
+        "difference": -0.1813333333333329,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:28"
+      },
+      "last_update": "09:39:28",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "SiH6",
+      "name": "Фьючерс (Si-3.26)",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 1109.3333333333333,
+      "comparison": {
+        "symbol": "SiH6",
+        "current_range": 0,
+        "baseline_atr": 1109.3333333333333,
+        "difference": -1109.3333333333333,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:29"
+      },
+      "last_update": "09:39:29",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "EuH6",
+      "name": "Фьючерс (Eu-3.26)",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 1417.6666666666667,
+      "comparison": {
+        "symbol": "EuH6",
+        "current_range": 0,
+        "baseline_atr": 1417.6666666666667,
+        "difference": -1417.6666666666667,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:29"
+      },
+      "last_update": "09:39:29",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "CNYRUBF",
+      "name": "Фьючерс CNY/RUB",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 0.17966666666666717,
+      "comparison": {
+        "symbol": "CNYRUBF",
+        "current_range": 0,
+        "baseline_atr": 0.17966666666666717,
+        "difference": -0.17966666666666717,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:30"
+      },
+      "last_update": "09:39:30",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "RAGR",
+      "name": "Росагро",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 6.1299999999999955,
+      "comparison": {
+        "symbol": "RAGR",
+        "current_range": 0,
+        "baseline_atr": 6.1299999999999955,
+        "difference": -6.1299999999999955,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:31"
+      },
+      "last_update": "09:39:31",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "OZON",
+      "name": "Озон",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 113.125,
+      "comparison": {
+        "symbol": "OZON",
+        "current_range": 0,
+        "baseline_atr": 113.125,
+        "difference": -113.125,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:32"
+      },
+      "last_update": "09:39:32",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "AFLT",
+      "name": "Аэрофлот",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 1.1625000000000014,
+      "comparison": {
+        "symbol": "AFLT",
+        "current_range": 0,
+        "baseline_atr": 1.1625000000000014,
+        "difference": -1.1625000000000014,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:33"
+      },
+      "last_update": "09:39:33",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -737,9 +205,198 @@
         "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "09:35:49"
+        "timestamp": "09:39:34"
       },
-      "last_update": "09:35:49",
+      "last_update": "09:39:34",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "SBERP",
+      "name": "Сбербанк - прив.",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 3.552499999999995,
+      "comparison": {
+        "symbol": "SBERP",
+        "current_range": 0,
+        "baseline_atr": 3.552499999999995,
+        "difference": -3.552499999999995,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:35"
+      },
+      "last_update": "09:39:35",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "GAZP",
+      "name": "Газпром",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 2.0025000000000013,
+      "comparison": {
+        "symbol": "GAZP",
+        "current_range": 0,
+        "baseline_atr": 2.0025000000000013,
+        "difference": -2.0025000000000013,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:36"
+      },
+      "last_update": "09:39:36",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "LKOH",
+      "name": "ЛУКОЙЛ",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 98.5,
+      "comparison": {
+        "symbol": "LKOH",
+        "current_range": 0,
+        "baseline_atr": 98.5,
+        "difference": -98.5,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:37"
+      },
+      "last_update": "09:39:37",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "GMKN",
+      "name": "ГМК Норникель",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 5.659999999999997,
+      "comparison": {
+        "symbol": "GMKN",
+        "current_range": 0,
+        "baseline_atr": 5.659999999999997,
+        "difference": -5.659999999999997,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:38"
+      },
+      "last_update": "09:39:38",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "ROSN",
+      "name": "Роснефть",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 7.037499999999994,
+      "comparison": {
+        "symbol": "ROSN",
+        "current_range": 0,
+        "baseline_atr": 7.037499999999994,
+        "difference": -7.037499999999994,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:39"
+      },
+      "last_update": "09:39:39",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "NVTK",
+      "name": "НОВАТЭК",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 21.750000000000057,
+      "comparison": {
+        "symbol": "NVTK",
+        "current_range": 0,
+        "baseline_atr": 21.750000000000057,
+        "difference": -21.750000000000057,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:40"
+      },
+      "last_update": "09:39:40",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "TATN",
+      "name": "Татнефть",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 12.07499999999996,
+      "comparison": {
+        "symbol": "TATN",
+        "current_range": 0,
+        "baseline_atr": 12.07499999999996,
+        "difference": -12.07499999999996,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:41"
+      },
+      "last_update": "09:39:41",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "MTSS",
+      "name": "МТС",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 1.9249999999999972,
+      "comparison": {
+        "symbol": "MTSS",
+        "current_range": 0,
+        "baseline_atr": 1.9249999999999972,
+        "difference": -1.9249999999999972,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:42"
+      },
+      "last_update": "09:39:42",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "PLZL",
+      "name": "Полюс",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 104.55000000000007,
+      "comparison": {
+        "symbol": "PLZL",
+        "current_range": 0,
+        "baseline_atr": 104.55000000000007,
+        "difference": -104.55000000000007,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:43"
+      },
+      "last_update": "09:39:43",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
@@ -747,40 +404,378 @@
     {
       "symbol": "MGNT",
       "name": "Магнит",
-      "current_range": 26.0,
-      "high": 3271.5,
-      "low": 3245.5,
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
       "baseline_atr": 0,
       "comparison": {
         "symbol": "MGNT",
-        "current_range": 26.0,
+        "current_range": 0,
         "baseline_atr": 0,
         "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "09:35:58"
+        "timestamp": "09:39:44"
       },
-      "last_update": "09:35:58",
+      "last_update": "09:39:44",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "RTKM",
+      "name": "Ростелеком",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 1.3750000000000036,
+      "comparison": {
+        "symbol": "RTKM",
+        "current_range": 0,
+        "baseline_atr": 1.3750000000000036,
+        "difference": -1.3750000000000036,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:45"
+      },
+      "last_update": "09:39:45",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "ALRS",
+      "name": "АЛРОСА",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 0.7825000000000006,
+      "comparison": {
+        "symbol": "ALRS",
+        "current_range": 0,
+        "baseline_atr": 0.7825000000000006,
+        "difference": -0.7825000000000006,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:46"
+      },
+      "last_update": "09:39:46",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "SNGS",
+      "name": "Сургутнефтегаз (обыкн.)",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 0.4250000000000007,
+      "comparison": {
+        "symbol": "SNGS",
+        "current_range": 0,
+        "baseline_atr": 0.4250000000000007,
+        "difference": -0.4250000000000007,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:47"
+      },
+      "last_update": "09:39:47",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "SNGSP",
+      "name": "Сургутнефтегаз (прив.)",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 0.6574999999999989,
+      "comparison": {
+        "symbol": "SNGSP",
+        "current_range": 0,
+        "baseline_atr": 0.6574999999999989,
+        "difference": -0.6574999999999989,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:48"
+      },
+      "last_update": "09:39:48",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "CHMF",
+      "name": "Северсталь",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 28.099999999999994,
+      "comparison": {
+        "symbol": "CHMF",
+        "current_range": 0,
+        "baseline_atr": 28.099999999999994,
+        "difference": -28.099999999999994,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:52"
+      },
+      "last_update": "09:39:52",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "NLMK",
+      "name": "НЛМК",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 3.430000000000007,
+      "comparison": {
+        "symbol": "NLMK",
+        "current_range": 0,
+        "baseline_atr": 3.430000000000007,
+        "difference": -3.430000000000007,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:53"
+      },
+      "last_update": "09:39:53",
+      "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
     },
     {
       "symbol": "PHOR",
       "name": "ФосАгро",
-      "current_range": 38.0,
-      "high": 6451.0,
-      "low": 6413.0,
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
       "baseline_atr": 0,
       "comparison": {
         "symbol": "PHOR",
-        "current_range": 38.0,
+        "current_range": 0,
         "baseline_atr": 0,
         "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "09:36:05"
+        "timestamp": "09:39:56"
       },
-      "last_update": "09:36:05",
+      "last_update": "09:39:56",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "AFKS",
+      "name": "АФК Система",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 0.4032500000000008,
+      "comparison": {
+        "symbol": "AFKS",
+        "current_range": 0,
+        "baseline_atr": 0.4032500000000008,
+        "difference": -0.4032500000000008,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:57"
+      },
+      "last_update": "09:39:57",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "CBOM",
+      "name": "МКБ",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 0.1152500000000003,
+      "comparison": {
+        "symbol": "CBOM",
+        "current_range": 0,
+        "baseline_atr": 0.1152500000000003,
+        "difference": -0.1152500000000003,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:58"
+      },
+      "last_update": "09:39:58",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "POSI",
+      "name": "Позитив",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 39.349999999999966,
+      "comparison": {
+        "symbol": "POSI",
+        "current_range": 0,
+        "baseline_atr": 39.349999999999966,
+        "difference": -39.349999999999966,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:39:59"
+      },
+      "last_update": "09:39:59",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "VTBR",
+      "name": "Банк ВТБ",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 3.5700000000000003,
+      "comparison": {
+        "symbol": "VTBR",
+        "current_range": 0,
+        "baseline_atr": 3.5700000000000003,
+        "difference": -3.5700000000000003,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:40:00"
+      },
+      "last_update": "09:40:00",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "T",
+      "name": "TCS Group Holding (Тинькофф)",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 38.399999999999864,
+      "comparison": {
+        "symbol": "T",
+        "current_range": 0,
+        "baseline_atr": 38.399999999999864,
+        "difference": -38.399999999999864,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:40:01"
+      },
+      "last_update": "09:40:01",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "RUAL",
+      "name": "РУСАЛ",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 1.8549999999999986,
+      "comparison": {
+        "symbol": "RUAL",
+        "current_range": 0,
+        "baseline_atr": 1.8549999999999986,
+        "difference": -1.8549999999999986,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:40:02"
+      },
+      "last_update": "09:40:02",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "HYDR",
+      "name": "РусГидро",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 0.015075000000000005,
+      "comparison": {
+        "symbol": "HYDR",
+        "current_range": 0,
+        "baseline_atr": 0.015075000000000005,
+        "difference": -0.015075000000000005,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:40:04"
+      },
+      "last_update": "09:40:04",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "MAGN",
+      "name": "ММК",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 1.0862500000000006,
+      "comparison": {
+        "symbol": "MAGN",
+        "current_range": 0,
+        "baseline_atr": 1.0862500000000006,
+        "difference": -1.0862500000000006,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:40:04"
+      },
+      "last_update": "09:40:04",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "PIKK",
+      "name": "ПИК",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 8.074999999999989,
+      "comparison": {
+        "symbol": "PIKK",
+        "current_range": 0,
+        "baseline_atr": 8.074999999999989,
+        "difference": -8.074999999999989,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:40:05"
+      },
+      "last_update": "09:40:05",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "FEES",
+      "name": "ФСК ЕЭС",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 0.0019500000000000003,
+      "comparison": {
+        "symbol": "FEES",
+        "current_range": 0,
+        "baseline_atr": 0.0019500000000000003,
+        "difference": -0.0019500000000000003,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:40:06"
+      },
+      "last_update": "09:40:06",
+      "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
     },
@@ -798,9 +793,51 @@
         "difference": 0,
         "percentage": 0,
         "status": "NO_DATA",
-        "timestamp": "09:36:16"
+        "timestamp": "09:40:07"
       },
-      "last_update": "09:36:16",
+      "last_update": "09:40:07",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "TRNFP",
+      "name": "Транснефть (прив.)",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 14.049999999999955,
+      "comparison": {
+        "symbol": "TRNFP",
+        "current_range": 0,
+        "baseline_atr": 14.049999999999955,
+        "difference": -14.049999999999955,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:40:08"
+      },
+      "last_update": "09:40:08",
+      "error": "Не удалось получить свечу",
+      "formatted_comparison": "нет данных",
+      "excess_percent": 0
+    },
+    {
+      "symbol": "MDMG",
+      "name": "М.видео",
+      "current_range": 0,
+      "high": 0,
+      "low": 0,
+      "baseline_atr": 28.924999999999955,
+      "comparison": {
+        "symbol": "MDMG",
+        "current_range": 0,
+        "baseline_atr": 28.924999999999955,
+        "difference": -28.924999999999955,
+        "percentage": 0,
+        "status": "NO_DATA",
+        "timestamp": "09:40:09"
+      },
+      "last_update": "09:40:09",
       "error": "Не удалось получить свечу",
       "formatted_comparison": "нет данных",
       "excess_percent": 0
